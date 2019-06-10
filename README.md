@@ -4,7 +4,7 @@ command line based script to search netflix (getting data from https://flixlist.
 ## (1) create a wishlist file, e.g.
 
 ```
-echo "batman begins nolan
+$ echo "batman begins nolan
 lonesome dove
 the jinx
 leaving neverland
@@ -18,7 +18,9 @@ booksmart Olivia Wilde" > wishlist
 
 ## (2) start script and wait
 
-```bash flixsearch.sh
+```
+
+$ bash flixsearch.sh
 
 search Batman Begins nolan
 netflix available in countries
