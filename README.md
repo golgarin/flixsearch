@@ -34,3 +34,5 @@ search the zen diaries of garry shandling
 search the untold history of the united states
 search Rocket Man Fletcher
 search booksmart Olivia Wilde
+netflix available in countries
+ 🇫🇷
